@@ -2,6 +2,14 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Developer
+
+[Wallace Abuonji](https://github.com/abwonji95)
+
+## About this Repo
+
+This repo is a practical use case for React application to perfect skills. 
+
 ## Available Scripts
 
 In the project directory, you can run:
