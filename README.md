@@ -6,6 +6,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 [Wallace Abuonji](https://github.com/abwonji95)
 
+---
+
 ## About this Repo
 
 This repo is a practical use case for React application to perfect skills. 
@@ -14,8 +16,11 @@ This repo is a practical use case for React application to perfect skills.
 
 In the project directory, you can run:
 
+---
 ### `npm start`
 
+
+---
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
